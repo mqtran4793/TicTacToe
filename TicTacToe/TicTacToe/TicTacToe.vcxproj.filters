@@ -42,16 +42,16 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\TicTacToe Icons\Letter X.ico">
+    <Image Include="TicTacToe Icons\TicTacToeSmall.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\TicTacToe Icons\Letter O.ico">
+    <Image Include="TicTacToe Icons\TicTacToe.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\TicTacToe Icons\Tic-Tac-Toe Game Icon.ico">
+    <Image Include="TicTacToe Icons\O.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="..\TicTacToe Icons\Tic-Tac-Toe Game SIcon.ico">
+    <Image Include="TicTacToe Icons\X.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
