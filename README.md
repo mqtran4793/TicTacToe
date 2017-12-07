@@ -1,6 +1,7 @@
 # TicTacToe
 The project is to create a Tic Tac Toe game using C++ and Window API
 
+
 How to build TicTacToe game?
 - Download the source code and extracts the files.
 - Run the TicTacToe-1.0\TicTacToe-1.0\TicTacToe\TicTacToe.sln using lastest version of Visual Studio.
