@@ -16,3 +16,7 @@ How to run the game from Visual Studio?
 - Inside Visual Studio, choose "Local Windows Debugger" or Ctrl+F5 to build and run the code.
 
 ENJOY!!!
+
+# NOTE
+- Future development: adds Alpha-Beta Pruning to the Minimax for optimization
+- Attempts to implement Tic-Tac-Toe with larger gameboard 4x4, 5x5, Ultimate Tic-Tac-Toe, or Tic-Tac-Toe 5 in a row
